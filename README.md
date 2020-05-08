@@ -1,0 +1,2 @@
+# Goals
+First Angular app
